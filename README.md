@@ -8,9 +8,6 @@ HTTP Responses are grouped in five category:
 
 1) Informational responses (100 – 199)
 
-https://user-images.githubusercontent.com/73180409/226401344-fe53fd51-7d72-48e5-b0d9-713e77f8caa2.mp4
-
-
 
 Status code	Meaning
 
@@ -101,3 +98,7 @@ Status code	Meaning
 508	Loop Detected
 510	Not Extended
 511	Network Authentication Required
+
+How to Recall HTTP code in Interview 
+
+https://user-images.githubusercontent.com/73180409/226401344-fe53fd51-7d72-48e5-b0d9-713e77f8caa2.mp4
