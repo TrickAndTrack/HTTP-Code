@@ -12,8 +12,11 @@ HTTP Responses are grouped in five category:
 Status code	Meaning
 
 100	Continue
+
 101	Switching protocols
+
 102	Processing
+
 103	Early Hints
 
 2) Successful responses (200 – 299)
