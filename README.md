@@ -6,7 +6,7 @@ HTTP response status codes
 
 HTTP Responses are grouped in five category:
 
-1) Informational responses (100 – 199)
+## 1) Informational responses (100 – 199)
 
 
 Status code	Meaning
@@ -19,7 +19,7 @@ Status code	Meaning
 
 103	Early Hints
 
-2) Successful responses (200 – 299)
+## 2) Successful responses (200 – 299)
 
 Status code	Meaning
  
@@ -45,7 +45,7 @@ Status code	Meaning
 
 
 
-3) Redirection messages (300 – 399)
+## 3) Redirection messages (300 – 399)
 
 Status code	Meaning
 	 
@@ -68,7 +68,7 @@ Status code	Meaning
 308	Permanent Redirect
 
 
-4) Client error responses (400 – 499)
+## 4) Client error responses (400 – 499)
 
 Status code	Meaning
    
@@ -130,7 +130,7 @@ Status code	Meaning
 
 451	Unavailable For Legal Reasons
 
-5) Server error responses (500 – 599)
+## 5) Server error responses (500 – 599)
 
 Status code	Meaning	 
 
